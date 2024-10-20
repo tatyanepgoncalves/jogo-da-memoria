@@ -18,8 +18,8 @@ Os usuários são capazes de:
 
 
 ## Link do Jogo 🔗
-- *[Link do projeto]()*
-- *[Link do repositório do GitHub]()*
+- *[Link do projeto](https://jogo-da-memoria-bootcamp-dio.vercel.app/)*
+- *[Link do repositório do GitHub](https://github.com/tatyanepgoncalves/jogo-da-memoria)*
 
 ## Tecnologias usadas: 📦
 - HTML
